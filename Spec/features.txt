@@ -1,0 +1,22 @@
+﻿databse design
+
+what user will do?
+-post 
+-poll
+-events (ismail)
+-profile(details)
+-post-comment
+-post-like
+-post-tag friends
+-friend req
+-create group and file sharing
+-message others
+-upload audio and video from phone
+-language option
+-search option
+-mutual friend
+-active friends
+-notifications(pusher)
+-profile pic and cover photo
+-chatroom with private chat (sabbir/ismail)
+-chat keywords(like ttyl = talk to you later) (sabbir)
